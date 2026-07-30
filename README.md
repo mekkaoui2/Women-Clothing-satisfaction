@@ -10,7 +10,7 @@ déçoit — pour en tirer des actions concrètes.
 Ce jeu de données ne contient ni prix ni ventes. On n'analyse donc pas le chiffre
 d'affaires, mais la **satisfaction** : notes, recommandations et commentaires écrits.
 
-## La base de données
+## La base de données (disponible sur Kaggle)
 
 23 486 avis, 11 colonnes : âge de la cliente, note (/5), recommandation (oui/non),
 commentaire écrit, catégorie du vêtement (division / département / classe) et utilité
